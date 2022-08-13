@@ -5,3 +5,5 @@ Phased array beamformers are very powerful! And they find applications in 5G MIM
 
 
 To get started, first read the "Phased Array Lab Build Your Own" document.  Then peruse the "Phased Array Lab" document to see what we'll be learning.  After that, please try it out and build your own.  Seeing and manipulating the beam first hand is much more informative and educational then just seeing the equations or the slides I provide of what the beam should look like.  Build it, play with it, and you'll learn a ton about this very powerful concept.  
+
+#End of Read Me Document
